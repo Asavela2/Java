@@ -158,9 +158,7 @@ There are several SDLC models, and each model has its own set of advantages and 
   
 # RAD Model (Rapid Application Development):
 
--Emphasizes quick development and iteration.
-
--Involves user feedback and iteration in a fast-paced development cycle.
-
--Suitable for projects with short development cycles.
+- Emphasizes quick development and iteration.
+- Involves user feedback and iteration in a fast-paced development cycle.
+- Suitable for projects with short development cycles.
 
