@@ -103,41 +103,41 @@ git tag -a <tag_name> -m "Tag message"
 - The Software Development Life Cycle (SDLC) is a systematic process for planning, creating, testing, deploying, and maintaining software. 
  It outlines the steps involved in the development of software and serves as a roadmap for the entire development process.
 
-# Requirements Gathering:
+## 1.Requirements Gathering:
 
 - Identify and collect requirements from stakeholders.
 - Understand the purpose, features, and constraints of the software.
 
-# Planning:
+## 2.Planning:
 
 - Define the project scope, objectives, and constraints.
 - Create a development plan, including timelines, resource allocation, and budget.
 
-## Design:
+## 3.Design:
 
 - Develop a high-level system architecture.
 - Create detailed specifications for the software components.
 - Design user interfaces and overall system behavior.
 
-# Implementation (Coding):
+## 4.Implementation (Coding):
 
 - Write and implement the source code based on design specifications.
 - Follow coding standards and best practices.
 - Create unit tests to ensure individual components work as expected.
 
-# Testing:
+##5. Testing:
 
 - Conduct various levels of testing (unit, integration, system, and acceptance testing).
 - Identify and fix bugs and issues.
 - Ensure the software meets the specified requirements and quality standards.
 
-# Deployment:
+# 6.Deployment:
 
 - Release the software to users or customers.
 - Install and configure the software in the production environment.
 - Provide user training and documentation.
 
-# Maintenance and Monitoring:
+## 7.Maintenance and Monitoring:
 
 - Monitor the software in the live environment.
 - Address any issues, bugs, or user feedback.
@@ -145,58 +145,58 @@ git tag -a <tag_name> -m "Tag message"
 
 
 
-## SDLC models:
+# SDLC models:
 
-# Waterfall Model:
+## Waterfall Model:
 
 - Sequential and linear approach.
 - Progress is seen as flowing steadily downwards through phases such as Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
 - Each phase must be completed before the next one begins.
    
-# Iterative Model:
+## Iterative Model:
 
 - Development is broken down into smaller cycles or iterations.
 - Each iteration goes through the phases of the SDLC, with the possibility of revisiting and making changes based on feedback.
 - It allows for flexibility and incremental development.
   
-# Agile Model:
+## Agile Model:
 
 - Emphasizes iterative and incremental development.
 - Prioritizes collaboration and customer feedback.
 - Development is carried out in small, rapid cycles called sprints.
 - Changes can be made at any point in the development process.
   
-# V-Model (Verification and Validation):
+## V-Model (Verification and Validation):
 
 - Extension of the waterfall model.
 - Each development stage has a corresponding testing phase.
 - Testing is integrated into each phase of development.
   
-# Spiral Model:
+## Spiral Model:
 
 - Combines elements of both waterfall and iterative models.
 - Focuses on risk assessment and allows for changes to be made as the project progresses.
 - Development proceeds in a spiral fashion, with repeated cycles.
   
-# Big Bang Model:
+## Big Bang Model:
 
 - No specific process is followed, and development begins with little planning.
 - Developers start coding without a clear understanding of requirements.
 - Suitable for small projects with changing requirements.
   
-# Prototyping Model:
+## Prototyping Model:
 
 - A prototype (a preliminary version of the software) is built based on initial requirements.
 - The prototype is used for feedback and refinement.
 - The final system is developed based on the approved prototype.
   
-# Incremental Model:
+## Incremental Model:
 
 - Divides the system functionality into small, manageable modules or increments.
 - Each increment adds new functionality to the system.
 - The software is developed, integrated, and tested incrementally.
   
-# RAD Model (Rapid Application Development):
+## RAD Model (Rapid Application Development):
 
 - Emphasizes quick development and iteration.
 - Involves user feedback and iteration in a fast-paced development cycle.
