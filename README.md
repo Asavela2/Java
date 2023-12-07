@@ -100,14 +100,54 @@ git tag -a <tag_name> -m "Tag message"
 ```
 
 # SDLC (Software Development Life Cycle)
+- The Software Development Life Cycle (SDLC) is a systematic process for planning, creating, testing, deploying, and maintaining software. 
+ It outlines the steps involved in the development of software and serves as a roadmap for the entire development process.
 
-The Software Development Life Cycle (SDLC) is a systematic process for planning, creating, testing, deploying, and maintaining software. 
-It outlines the steps involved in the development of software and serves as a roadmap for the entire development process.
-There are several SDLC models, and each model has its own set of advantages and disadvantages. 
+# Requirements Gathering:
 
-- Here are some of the commonly used SDLC models:
+- Identify and collect requirements from stakeholders.
+- Understand the purpose, features, and constraints of the software.
 
-## Waterfall Model:
+# Planning:
+
+- Define the project scope, objectives, and constraints.
+- Create a development plan, including timelines, resource allocation, and budget.
+
+# Design:
+
+- Develop a high-level system architecture.
+- Create detailed specifications for the software components.
+- Design user interfaces and overall system behavior.
+
+# Implementation (Coding):
+
+- Write and implement the source code based on design specifications.
+- Follow coding standards and best practices.
+- Create unit tests to ensure individual components work as expected.
+
+# Testing:
+
+- Conduct various levels of testing (unit, integration, system, and acceptance testing).
+- Identify and fix bugs and issues.
+- Ensure the software meets the specified requirements and quality standards.
+
+# Deployment:
+
+- Release the software to users or customers.
+- Install and configure the software in the production environment.
+- Provide user training and documentation.
+
+# Maintenance and Monitoring:
+
+- Monitor the software in the live environment.
+- Address any issues, bugs, or user feedback.
+- Implement updates, patches, or new features as needed
+
+
+
+## SDLC models:
+
+# Waterfall Model:
 
 - Sequential and linear approach.
 - Progress is seen as flowing steadily downwards through phases such as Requirements, Design, Implementation, Testing, Deployment, and Maintenance.
