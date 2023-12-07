@@ -113,7 +113,7 @@ git tag -a <tag_name> -m "Tag message"
 - Define the project scope, objectives, and constraints.
 - Create a development plan, including timelines, resource allocation, and budget.
 
-# Design:
+## Design:
 
 - Develop a high-level system architecture.
 - Create detailed specifications for the software components.
